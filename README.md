@@ -2,3 +2,7 @@ This is a simple tensorflow script that can detect if the photo contains a deser
 
 The code contains many help function that you can use for a better understanding of the algorith.
 To run it you need python3, tensorflow, preetyTensor, numpy, sklearn and matplotlib installed to your system. 
+
+<p align="center">
+  <img width="660" height="200" src="http://showmeyourcode.org/uploads/results.png">
+</p>
